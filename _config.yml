@@ -11,3 +11,7 @@ email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
+remote_theme: "nrandecker/particle"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
