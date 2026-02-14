@@ -6,3 +6,7 @@ layout: home
 ---
 # Hello! 
 If you can see this, the site is working!
+
+<div id="particles-js"></div>
+
+<script src="particles.js"></script>
