@@ -9,24 +9,24 @@ Hi, I'm Jamie Mathieson. Currently I am a computer science student at the Univer
 
 Come take a look at the things I am interested in! From projects to books I am reading these summarise my computer science interactions pretty accurately.
 ### Projects!
-* [Hashmap project]()
-* [Particle Simulator!]()
-* [Black-scholes-interpreter]()
+* [Hashmap project](./projects/hash.markdown)
+* [Particle Simulator!](./projects/pSim.markdown)
+* [Black-scholes-interpreter](./projects/bsi.markdown)
 * Fire Map
 
 ### Books!
 
-* [Tour of C++]()
-* [Concurrency C++]()
-* [Introduction to Statistical Learning in Python]()
-* [Data Science By Skienna]()
+* Tour of C++
+* Concurrency C++
+* Introduction to Statistical Learning in Python
+* Data Science By Skienna
 
 ### Other 
 
-* [AUCPL]()
-* [Atcoder]()
-* [USACO]()
-* [Leetcode]()
+* [AUCPL](https://acpc.io/)
+* [Atcoder](https://atcoder.jp/users/phyromaniac)
+* [USACO](usaco.org/)
+* [Leetcode](https://leetcode.com/u/Phyromaniac/)
 
 
 
