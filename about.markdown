@@ -8,7 +8,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
-[slate](https://github.com/jekyll/slate)
+[minima](https://github.com/jekyll/minima)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
