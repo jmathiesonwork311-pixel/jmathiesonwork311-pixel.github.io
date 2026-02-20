@@ -9,4 +9,9 @@ This project is one I did for my university courses, it leverages object oriente
 As my first collaborative project I'm proud of how it turned out, and I'm eager to keep working to blow way past this in skill!
 
 
+![Black-scholes-interpreter](bsiimg.png)
+
+##### [back](../index.markdown)
+
+
 

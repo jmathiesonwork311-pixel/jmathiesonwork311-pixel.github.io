@@ -10,8 +10,11 @@ To do this I designed a program aimed at simulating particles in a non-grid base
 
 Quadtrees allowed me to simulate collisions in nlog(n) time, far faster than the typical n squared required for this type of simulation. 
 
-Additionally, I even used multi-threading to speed up the program, using the 4 threads available to my computer to collision testing even further, allowing me to simulate 8000+ objects with very little frame drop. 
+Additionally, I even used multi-threading to speed up the program, using the 4 threads available to my computer to collision testing even further, allowing me to simulate 10000+ objects with very little frame drop. 
 
+![Program in action!](Animation.gif)
+
+##### [back](../index.markdown)
 
 
 
