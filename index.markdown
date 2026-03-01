@@ -20,13 +20,6 @@ Come take a look at the things I am interested in! From projects to books I am r
 * ## Fire Map
     Image and graphic manipulation using a tool called matlab!
 
-### Books!
-
-* [Tour of C++](https://stroustrup.com/tour3.html)
-* [Concurrency C++](https://www.amazon.com.au/dp/B0BN62H6SS)
-* [Introduction to Statistical Learning in Python](https://www.statlearning.com/)
-* [Data Science Design Manual](https://link.springer.com/book/10.1007/978-3-319-55444-0)
-
 ### Competitive Programming interests.
 
 * [AUCPL](https://acpc.io/)
